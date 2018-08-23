@@ -1,0 +1,235 @@
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\ApplicationInsights.config
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\DataWhisperer.dll.config
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\DataWhisperer.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\DataWhisperer.pdb
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\csc.exe
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\csc.exe.config
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\csc.rsp
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\csi.exe
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\csi.exe.config
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\csi.rsp
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\System.AppContext.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\System.Collections.Immutable.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\System.Console.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\System.IO.Compression.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\System.IO.FileSystem.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\System.IO.Pipes.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\System.Security.AccessControl.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\System.Security.Claims.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\System.Threading.Thread.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\System.ValueTuple.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\System.Xml.XPath.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\vbc.exe
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\vbc.exe.config
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\vbc.rsp
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\VBCSCompiler.exe
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\roslyn\VBCSCompiler.exe.config
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\Antlr3.Runtime.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\Microsoft.AI.Web.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\Microsoft.AI.WindowsServer.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\Microsoft.ApplicationInsights.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\Microsoft.Web.Infrastructure.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\Newtonsoft.Json.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.Web.Helpers.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.Web.Mvc.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.Web.Optimization.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.Web.Razor.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.Web.WebPages.Deployment.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.Web.WebPages.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.Web.WebPages.Razor.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\WebGrease.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.Web.Helpers.xml
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.Web.Mvc.xml
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.Web.Optimization.xml
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.Web.Razor.xml
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.Web.WebPages.xml
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.Web.WebPages.Deployment.xml
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.Web.WebPages.Razor.xml
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\Antlr3.Runtime.pdb
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\Newtonsoft.Json.xml
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\Microsoft.ApplicationInsights.xml
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\Microsoft.AI.WindowsServer.xml
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\Microsoft.AI.Web.xml
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\obj\Debug\DataWhisperer.csprojResolveAssemblyReference.cache
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\obj\Debug\DataWhisperer.csproj.CoreCompileInputs.cache
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\obj\Debug\DataWhisperer.csproj.CopyComplete
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\obj\Debug\DataWhisperer.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\obj\Debug\DataWhisperer.pdb
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\Microsoft.Win32.Primitives.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.AppContext.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.Console.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.Diagnostics.TraceSource.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.Globalization.Calendars.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.IO.Compression.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.IO.Compression.ZipFile.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.IO.FileSystem.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.IO.FileSystem.Primitives.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.Net.Http.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.Net.Sockets.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.Security.Claims.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.Security.Cryptography.Algorithms.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.Security.Cryptography.Encoding.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.Security.Cryptography.Primitives.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.Security.Cryptography.X509Certificates.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\Microsoft.Win32.Registry.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.Diagnostics.DiagnosticSource.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.Reflection.TypeExtensions.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.Security.Principal.Windows.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.ServiceProcess.ServiceController.dll
+c:\users\glendonr\documents\visual studio 2017\Projects\DataWhisperer\DataWhisperer\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\ApplicationInsights.config
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\DataWhisperer.dll.config
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\DataWhisperer.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\DataWhisperer.pdb
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\csc.exe
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\csc.exe.config
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\csc.rsp
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\csi.exe
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\csi.exe.config
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\csi.rsp
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\System.AppContext.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\System.Collections.Immutable.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\System.Console.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\System.Diagnostics.Process.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\System.IO.Compression.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\System.IO.FileSystem.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\System.IO.Pipes.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\System.Security.AccessControl.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\System.Security.Claims.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\System.Threading.Thread.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\System.ValueTuple.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\System.Xml.XPath.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\vbc.exe
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\vbc.exe.config
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\vbc.rsp
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\VBCSCompiler.exe
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\roslyn\VBCSCompiler.exe.config
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\Antlr3.Runtime.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\Microsoft.AI.DependencyCollector.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\Microsoft.AI.Web.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\Microsoft.AI.WindowsServer.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\Microsoft.ApplicationInsights.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\Microsoft.Web.Infrastructure.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\Microsoft.Win32.Primitives.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\Microsoft.Win32.Registry.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\Newtonsoft.Json.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.AppContext.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Console.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Diagnostics.TraceSource.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Globalization.Calendars.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.IO.Compression.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.IO.Compression.ZipFile.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.IO.FileSystem.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.IO.FileSystem.Primitives.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Net.Http.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Net.Sockets.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Reflection.TypeExtensions.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Security.Claims.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Security.Cryptography.Algorithms.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Security.Cryptography.Encoding.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Security.Cryptography.Primitives.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Security.Principal.Windows.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.ServiceProcess.ServiceController.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Web.Helpers.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Web.Mvc.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Web.Optimization.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Web.Razor.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Web.WebPages.Deployment.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Web.WebPages.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Web.WebPages.Razor.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\WebGrease.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Web.Helpers.xml
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Web.Mvc.xml
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Web.Optimization.xml
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Web.Razor.xml
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Web.WebPages.xml
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Web.WebPages.Deployment.xml
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Web.WebPages.Razor.xml
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\Antlr3.Runtime.pdb
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\Newtonsoft.Json.xml
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\Microsoft.ApplicationInsights.xml
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\Microsoft.AI.DependencyCollector.xml
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\Microsoft.AI.WindowsServer.xml
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\Microsoft.AI.Web.xml
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\obj\Debug\DataWhisperer.csprojResolveAssemblyReference.cache
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\obj\Debug\DataWhisperer.csproj.CoreCompileInputs.cache
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\obj\Debug\DataWhisperer.csproj.CopyComplete
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\obj\Debug\DataWhisperer.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\obj\Debug\DataWhisperer.pdb
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Net.Http.Extensions.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Net.Http.Formatting.dll
+C:\Werk\JiraIntegration\DataWhisperer\DataWhisperer\bin\System.Net.Http.Primitives.dll
