@@ -1,4 +1,5 @@
 ﻿using DataWhisperer.Common;
+using DataWhisperer.Models;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -49,15 +50,16 @@ namespace DataWhisperer.Controllers
             return View();
         }
 
-        public async Task<OperationResult> CreateJiraRequests(string baseGoJiraUrl, object model)
+        public async Task<OperationResult> CreateJiraRequests(string baseGoJiraUrl, RequestModel model)
         {
             var orResponse = new OperationResult { Status = OperationStatus.Error };
 
             using (var client = getADSvcClient(baseGoJiraUrl))
             {
                 var jsonContent = JsonConvert.SerializeObject(model);
-                var items = new StringContent(jsonContent, Encoding.UTF8, "application/json");
-                var response = await client.PostAsJsonAsync(@"http://localhost:57883/jira/request", model);
+                var content = new StringContent(jsonContent, Encoding.UTF8, "application/json");
+
+                var response = await client.PostAsync(@"http://localhost:57883/jira/request", content);
                 orResponse.Status = response.IsSuccessStatusCode ? OperationStatus.Success : OperationStatus.Error;
                 orResponse.Message = await response.Content.ReadAsStringAsync();
 
@@ -104,17 +106,6 @@ namespace DataWhisperer.Controllers
 
             return adSvcClient;
         }
-
-        internal class RequestModel
-        {
-            public int RequestTypeId { get; set; }
-            public string AsUserName { get; set; }
-            public string AdUserStartDate { get; set; }
-            public string JiraAccountType { get; set; }
-            public string CreatedDate { get; set; }
-            public string CreatedBy { get; set; }
-        }
-
-
+        
     }
 }
